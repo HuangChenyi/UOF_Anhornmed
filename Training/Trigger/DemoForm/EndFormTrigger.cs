@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Ede.Uof.Utility.Configuration;
+using Ede.Uof.Utility.FileCenter.V3;
 using Ede.Uof.WKF.ExternalUtility;
 using Training.UCO;
 
@@ -35,6 +37,30 @@ namespace Training.Trigger.DemoForm
             string signStatus = applyTask.FormResult.ToString();
 
             uco.UpdateFormResult(docNbr, signStatus);
+
+            Setting setting = new Setting();
+            string folder = setting["Anhornmed_NasFolder"];
+
+            if(applyTask.FormResult== Ede.Uof.WKF.Engine.ApplyResult.Adopt)
+            {
+                string fileGroupId = applyTask.Task.CurrentDocument.Fields["attach"].FieldValue;
+            
+                FileGroup fg = FileCenter.GetFileGroup(fileGroupId);
+
+                foreach (var file in fg)
+                {
+                    string fileName = file.Name;
+
+                    Stream s = file.GetLocalFileStream();
+                    //Copy To folder
+                    using (FileStream fs = new FileStream(folder + fileName, FileMode.Create))
+                    {
+                        s.CopyTo(fs);
+                    }
+                }
+
+            }
+
             return "";
         }
 

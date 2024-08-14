@@ -59,6 +59,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\UOF24\bin\Ede.Uof.Utility.Data.dll</HintPath>
     </Reference>
+    <Reference Include="Ede.Uof.Utility.FileCenter, Version=24.0.8398.52406, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\UOF24\bin\Ede.Uof.Utility.FileCenter.dll</HintPath>
+    </Reference>
     <Reference Include="Ede.Uof.Utility.Log, Version=22.0.8050.27472, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\UOF24\bin\Ede.Uof.Utility.Log.dll</HintPath>
