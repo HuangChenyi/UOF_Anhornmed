@@ -1,0 +1,18 @@
+﻿<Event eventID="1994ccbd-e56d-4783-9414-73916f917e06" LogTime="2024/08/14 16:04:01" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.EIP.HR104.SyncHR.SyncCompanyTask with DataKey 161BF546-79D3-4E98-9C3A-66A13893E34A is started
+</Event>
+<Event eventID="84c6ba74-64bc-49ef-b902-d5f153a2e141" LogTime="2024/08/14 16:04:01" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.WKF.RefineCurrentDocTask with DataKey EnableSearchRefineTask is started
+</Event>
+<Event eventID="18beeab5-bfb7-4bce-a2ce-b67c1aedd406" LogTime="2024/08/14 16:04:01" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.EIP.HR104.SyncHR.SyncCompanyTask with DataKey 161BF546-79D3-4E98-9C3A-66A13893E34A is successed
+</Event>
+<Event eventID="6a817343-44fd-4fff-aaec-1eff29d05a9a" LogTime="2024/08/14 16:04:01" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.WKF.RefineCurrentDocTask with DataKey EnableSearchRefineTask is successed
+</Event>
+<Event eventID="6737a2e6-637e-4267-98d7-5e207292e82b" LogTime="2024/08/14 16:04:02" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.EIP.HR104.SyncHR.SyncCompanyTask with DataKey B1E96E51-25D9-46DD-87EB-FFB09D0375F4 is started
+</Event>
+<Event eventID="6de22fde-6fd4-4a61-8c6a-2bcfb11780c7" LogTime="2024/08/14 16:04:02" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.EIP.HR104.SyncHR.SyncCompanyTask with DataKey B1E96E51-25D9-46DD-87EB-FFB09D0375F4 is successed
+</Event>

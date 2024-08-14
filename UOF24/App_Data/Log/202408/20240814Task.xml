@@ -1,0 +1,18 @@
+﻿<Event eventID="ba1438c5-eb48-4246-836a-174bde72f235" LogTime="2024/08/14 16:04:01" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Synchronize Config File Success
+</Event>
+<Event eventID="ecaa5973-26f2-45c6-99aa-6b8a83e00f52" LogTime="2024/08/14 16:04:01" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.Utility.IndexService.Seekafile.Server.IndexServiceTask is started
+</Event>
+<Event eventID="d9ed2116-6c87-4bb5-b712-eb5a46c787dc" LogTime="2024/08/14 16:05:45" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Synchronize Config File Success
+</Event>
+<Event eventID="e4ee6c99-4de5-4516-8184-c18d460ebe30" LogTime="2024/08/14 16:05:46" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.Utility.IndexService.Seekafile.Server.IndexServiceTask is started
+</Event>
+<Event eventID="37f1ef90-2d9a-4b0b-8aca-72bf6748a237" LogTime="2024/08/14 16:07:33" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Synchronize Config File Success
+</Event>
+<Event eventID="fd4a7c33-2fa7-4766-a1e1-3673f763d6b5" LogTime="2024/08/14 16:07:33" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.Utility.IndexService.Seekafile.Server.IndexServiceTask is started
+</Event>
