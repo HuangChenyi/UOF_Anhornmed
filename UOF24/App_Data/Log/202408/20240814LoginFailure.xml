@@ -1,0 +1,16 @@
+﻿<Event eventID="5498e86e-6ca9-4950-a5da-c27b3b887566" LogTime="2024/08/14 11:33:00" User="" Url="/UOF_Anhornmed/Login.aspx" Assembly="Ede.Uof.Web, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Login Type: Login
+Login Account: tony  IP: ::1  From:Browser
+Login Failure: 密碼錯誤
+
+   於 System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   於 _Login.cvalidLogin_ServerValidate(Object source, ServerValidateEventArgs args) 於 Z:\Builds\20\UofAgile\3.Setup\src\Web\Ede.Uof.Web\Login.aspx.cs: 行 1140
+</Event>
+<Event eventID="aa114dbe-fce3-4db3-818c-9c835bed9032" LogTime="2024/08/14 11:33:01" User="" Url="/UOF_Anhornmed/Login.aspx" Assembly="Ede.Uof.Web, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Login Type: Login
+Login Account: tony  IP: ::1  From:Browser
+Login Failure: 密碼錯誤
+
+   於 System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   於 _Login.cvalidLogin_ServerValidate(Object source, ServerValidateEventArgs args) 於 Z:\Builds\20\UofAgile\3.Setup\src\Web\Ede.Uof.Web\Login.aspx.cs: 行 1140
+</Event>

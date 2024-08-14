@@ -37,12 +37,12 @@ namespace Lab.Lib.Tigger.LabForm
 
             //若要寫入的欄位是表單欄位的話可依下面參考方式寫入
             //若要寫入的欄位是表單資料的話，可依applyTask提供屬性寫入
-            //dr.AMOUNT = Convert.ToDecimal(fields["amount"].FieldValue);
-            //dr.CATEGORY_ID = ;
-            //dr.ITEM_NAME = ;
-            //dr.DOC_NBR = ;
-            //dr.FORM_RESULT = ;
-            //dr.TASK_ID = ;
+            dr.AMOUNT = Convert.ToDecimal(fields["amount"].FieldValue);
+            dr.CATEGORY_ID = fields["type"].FieldValue;
+            dr.ITEM_NAME = fields["item"].FieldValue;
+            dr.DOC_NBR = applyTask.FormNumber;
+            dr.FORM_RESULT = applyTask.FormResult.ToString();
+            dr.TASK_ID = applyTask.TaskId;
 
             LabUCO uco = new LabUCO();
             uco.InsertLabFormData(dr);
