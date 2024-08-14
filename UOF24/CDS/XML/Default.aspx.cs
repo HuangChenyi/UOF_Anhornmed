@@ -1,4 +1,5 @@
 ﻿using Ede.Uof.Utility.Page.Common;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,11 @@ public partial class CDS_XML_Default : Ede.Uof.Utility.Page.BasePage
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+        SupplierData supplierData = new SupplierData();
+        supplierData.SU01100 = "SU01100";
+        supplierData.SU01040 = "SU01040";
+        txtXML.Text= JsonConvert.SerializeObject(supplierData);
+        return;
         XElement xe = new XElement("FieldValue");
 
         XElement item01 = new XElement("Item",
