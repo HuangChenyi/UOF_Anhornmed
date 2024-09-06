@@ -1,4 +1,5 @@
-﻿using Ede.Uof.Utility.Page;
+﻿using Ede.Uof.EIP.Organization.Util;
+using Ede.Uof.Utility.Page;
 using Ede.Uof.Utility.Page.Common;
 using System;
 using System.Collections.Generic;
@@ -13,6 +14,8 @@ public partial class CDS_WKF_Fields_SelectSuppliers : BasePage
 {
     protected void Page_Load(object sender, EventArgs e)
     {
+
+
 
 
         ((Master_DialogMasterPage)this.Master).Button1Text = "";

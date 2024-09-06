@@ -1,0 +1,372 @@
+﻿<Event eventID="26004767-3e2d-43d7-a17d-71cc00104a18" LogTime="2024/09/06 14:31:11" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 建構ApplyTask2
+</Event>
+<Event eventID="e60dc1ba-7ca3-4ff9-957b-f14e1ed56dc6" LogTime="2024/09/06 14:31:11" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始ExecuteTrigger
+</Event>
+<Event eventID="0424cf70-c648-42ea-a15b-a8bde5daf08b" LogTime="2024/09/06 14:31:11" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始ExecuteTrigger
+</Event>
+<Event eventID="aa9c312b-fd4a-40eb-9b0f-17084cbc9029" LogTime="2024/09/06 14:31:11" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始GetFormResult
+</Event>
+<Event eventID="3a31f732-08d2-4f94-be3c-5587e5414e2e" LogTime="2024/09/06 14:31:11" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 ExecuteTrigger finally
+</Event>
+<Event eventID="6e0d8c9a-30e3-44d1-b482-01297245f146" LogTime="2024/09/06 14:31:11" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 結束ExecuteTrigger
+</Event>
+<Event eventID="bf44ca90-2978-4281-98e2-9e2960e7fbbe" LogTime="2024/09/06 14:31:11" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+寫入狀態True
+TriggerExtenalModuleByEndForm 
+ triggerMethod: START_FORM
+signResult: Approve 
+ returnSiteId:  
+ taskId: fafc34fe-da95-4763-8fea-a554d81f083d 
+表單編號: WKF240900002 
+triggerId: 4b66fe87-c7ac-4a10-ae43-66bd8f86bd38
+ file: Training
+ type: Training.Trigger.DemoForm.StartFormTrigger
+2024/09/06 14:31:11 +08:00 開始執行Trigger
+2024/09/06 14:31:11 +08:00 開始執行GetFormResult
+2024/09/06 14:31:11 +08:00 結束執行GetFormResult
+2024/09/06 14:31:11 +08:00 開始執行Finally
+2024/09/06 14:31:11 +08:00 結束執行Finally
+2024/09/06 14:31:11 +08:00 結束執行Trigger
+2024/09/06 14:31:11 +08:00 開始寫入成功紀錄
+2024/09/06 14:31:11 +08:00 結束寫入成功紀錄
+
+</Event>
+<Event eventID="d666e854-bd84-44df-b39b-58d033643924" LogTime="2024/09/06 14:31:23" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 建構ApplyTask2
+</Event>
+<Event eventID="30fc7c5c-81ab-4e2e-b4f6-07a34055f8be" LogTime="2024/09/06 14:31:23" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始ExecuteTrigger
+</Event>
+<Event eventID="60ca19ce-670b-43a8-865d-d06c3549fa36" LogTime="2024/09/06 14:31:23" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始ExecuteTrigger
+</Event>
+<Event eventID="f60d22ec-a971-4f29-aad9-cfeca6f6b3a9" LogTime="2024/09/06 14:31:23" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始GetFormResult
+</Event>
+<Event eventID="84d1be32-0fb8-448c-bd88-159eec7bb34c" LogTime="2024/09/06 14:31:23" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 ExecuteTrigger finally
+</Event>
+<Event eventID="957c7cf0-e35e-4cd1-8e90-490028b00008" LogTime="2024/09/06 14:31:23" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 結束ExecuteTrigger
+</Event>
+<Event eventID="9452b755-ae82-43e3-9c1c-59b65edf80ec" LogTime="2024/09/06 14:31:23" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+寫入狀態True
+TriggerExtenalModuleByEndForm 
+ triggerMethod: SIGN_FORM
+signResult: Approve 
+ returnSiteId:  
+ taskId: fafc34fe-da95-4763-8fea-a554d81f083d 
+表單編號: WKF240900002 
+triggerId: fe3b0a0e-211a-4ac8-8e3f-5ec57b1b405d
+ file: Training
+ type: Training.Trigger.DemoForm.OnFlowTrigger
+2024/09/06 14:31:23 +08:00 開始執行Trigger
+2024/09/06 14:31:23 +08:00 開始執行GetFormResult
+2024/09/06 14:31:23 +08:00 結束執行GetFormResult
+2024/09/06 14:31:23 +08:00 開始執行Finally
+2024/09/06 14:31:23 +08:00 結束執行Finally
+2024/09/06 14:31:23 +08:00 結束執行Trigger
+2024/09/06 14:31:23 +08:00 開始寫入成功紀錄
+2024/09/06 14:31:23 +08:00 結束寫入成功紀錄
+
+</Event>
+<Event eventID="11ed3392-a8e6-4aae-a080-1df70fa68c26" LogTime="2024/09/06 14:31:39" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 建構ApplyTask2
+</Event>
+<Event eventID="fe05c311-9d5d-49eb-96dd-7179dd67de15" LogTime="2024/09/06 14:31:39" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始ExecuteTrigger
+</Event>
+<Event eventID="69d9bda0-c662-4a65-b14f-8d6a05433063" LogTime="2024/09/06 14:31:39" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始ExecuteTrigger
+</Event>
+<Event eventID="1829376d-25c6-4dbf-87f5-cf9fb891a251" LogTime="2024/09/06 14:31:39" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始GetFormResult
+</Event>
+<Event eventID="a684483b-ec33-4e67-bf15-e083f52e75da" LogTime="2024/09/06 14:31:39" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 ExecuteTrigger finally
+</Event>
+<Event eventID="6ed3c9cb-8ab3-40fb-b25f-64fe8a44d949" LogTime="2024/09/06 14:31:39" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 結束ExecuteTrigger
+</Event>
+<Event eventID="2ef66dad-7f45-443b-b72e-a5d7d4f39270" LogTime="2024/09/06 14:31:39" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+寫入狀態True
+TriggerExtenalModuleByEndForm 
+ triggerMethod: SIGN_FORM
+signResult: Approve 
+ returnSiteId:  
+ taskId: fafc34fe-da95-4763-8fea-a554d81f083d 
+表單編號: WKF240900002 
+triggerId: fe3b0a0e-211a-4ac8-8e3f-5ec57b1b405d
+ file: Training
+ type: Training.Trigger.DemoForm.OnFlowTrigger
+2024/09/06 14:31:39 +08:00 開始執行Trigger
+2024/09/06 14:31:39 +08:00 開始執行GetFormResult
+2024/09/06 14:31:39 +08:00 結束執行GetFormResult
+2024/09/06 14:31:39 +08:00 開始執行Finally
+2024/09/06 14:31:39 +08:00 結束執行Finally
+2024/09/06 14:31:39 +08:00 結束執行Trigger
+2024/09/06 14:31:39 +08:00 開始寫入成功紀錄
+2024/09/06 14:31:39 +08:00 結束寫入成功紀錄
+
+</Event>
+<Event eventID="5c81ac6e-fcce-4631-8f9a-fb8ff21d9a48" LogTime="2024/09/06 14:31:40" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始結案Trigger
+</Event>
+<Event eventID="f8b977ec-a46b-4a0d-8859-3f46c3be3984" LogTime="2024/09/06 14:31:40" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 結案Trigger列表
+</Event>
+<Event eventID="6135ffa6-3fc8-4db9-970e-347d1a3e93e1" LogTime="2024/09/06 14:31:40" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 建構ApplyTask1
+</Event>
+<Event eventID="7da2c5e8-773d-4504-b76f-719562475bcb" LogTime="2024/09/06 14:31:40" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 建構ApplyTask2
+</Event>
+<Event eventID="d3f70e4b-8ba2-4a5e-ad66-888497c8fab9" LogTime="2024/09/06 14:31:40" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始ExecuteTrigger
+</Event>
+<Event eventID="b9dc36c4-cd70-49d8-9f90-83b8556e5800" LogTime="2024/09/06 14:31:40" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始ExecuteTrigger
+</Event>
+<Event eventID="8313b8cc-70e7-4ed9-abab-c0d4d867235b" LogTime="2024/09/06 14:31:40" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 開始GetFormResult
+</Event>
+<Event eventID="3d7c543b-8af5-4d89-a14e-809af0816bbd" LogTime="2024/09/06 14:31:40" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 ExecuteTrigger finally
+</Event>
+<Event eventID="44d43a6f-77cf-4dee-8cbb-ef2aa437d369" LogTime="2024/09/06 14:31:40" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900002 結束ExecuteTrigger
+</Event>
+<Event eventID="ac5d8f7f-3a61-4317-9cf6-855cfedf3809" LogTime="2024/09/06 14:31:40" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+寫入狀態True
+TriggerExtenalModuleByEndForm 
+ triggerMethod: END_FORM
+signResult: Approve 
+ returnSiteId:  
+ taskId: fafc34fe-da95-4763-8fea-a554d81f083d 
+表單編號: WKF240900002 
+triggerId: 0a660f4c-2b24-4744-9eb0-aab11a5aea93
+ file: Training
+ type: Training.Trigger.DemoForm.EndFormTrigger
+2024/09/06 14:31:40 +08:00 開始執行Trigger
+2024/09/06 14:31:40 +08:00 開始執行GetFormResult
+2024/09/06 14:31:40 +08:00 結束執行GetFormResult
+2024/09/06 14:31:40 +08:00 開始執行Finally
+2024/09/06 14:31:40 +08:00 結束執行Finally
+2024/09/06 14:31:40 +08:00 結束執行Trigger
+2024/09/06 14:31:40 +08:00 開始寫入成功紀錄
+2024/09/06 14:31:40 +08:00 結束寫入成功紀錄
+
+</Event>
+<Event eventID="5d3cb9cc-5f71-4836-983c-2c881982f5d8" LogTime="2024/09/06 14:35:05" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900003 建構ApplyTask2
+</Event>
+<Event eventID="65b64a8e-41a0-4386-ac2e-e58f13c10a8d" LogTime="2024/09/06 14:35:05" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900003 開始ExecuteTrigger
+</Event>
+<Event eventID="78ef691f-3b1a-4b0e-9012-a6c35fc1cbce" LogTime="2024/09/06 14:35:05" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900003 開始ExecuteTrigger
+</Event>
+<Event eventID="fe3e9e2f-baa6-4184-b21a-50675cdcfe83" LogTime="2024/09/06 14:35:05" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900003 開始GetFormResult
+</Event>
+<Event eventID="49706277-c3ee-4ac2-80b9-006cc576fc75" LogTime="2024/09/06 14:35:05" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900003 ExecuteTrigger finally
+</Event>
+<Event eventID="a1f96962-8232-4e96-b0a6-ea51e2b97410" LogTime="2024/09/06 14:35:05" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900003 結束ExecuteTrigger
+</Event>
+<Event eventID="92574576-4ec0-4993-a0aa-4307c8178070" LogTime="2024/09/06 14:35:05" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+寫入狀態True
+TriggerExtenalModuleByEndForm 
+ triggerMethod: START_FORM
+signResult: Approve 
+ returnSiteId:  
+ taskId: 0956b307-951f-40e3-a03f-c6d3460a2673 
+表單編號: WKF240900003 
+triggerId: 4b66fe87-c7ac-4a10-ae43-66bd8f86bd38
+ file: Training
+ type: Training.Trigger.DemoForm.StartFormTrigger
+2024/09/06 14:35:05 +08:00 開始執行Trigger
+2024/09/06 14:35:05 +08:00 開始執行GetFormResult
+2024/09/06 14:35:05 +08:00 結束執行GetFormResult
+2024/09/06 14:35:05 +08:00 開始執行Finally
+2024/09/06 14:35:05 +08:00 結束執行Finally
+2024/09/06 14:35:05 +08:00 結束執行Trigger
+2024/09/06 14:35:05 +08:00 開始寫入成功紀錄
+2024/09/06 14:35:05 +08:00 結束寫入成功紀錄
+
+</Event>
+<Event eventID="fd8dcede-f0b0-488a-80b8-7d000280576e" LogTime="2024/09/06 14:35:21" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 建構ApplyTask2
+</Event>
+<Event eventID="5729b3e2-db65-427d-acc7-1ecb963c3aaa" LogTime="2024/09/06 14:35:21" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始ExecuteTrigger
+</Event>
+<Event eventID="528b3cd7-a964-42d0-83bc-16b51921869b" LogTime="2024/09/06 14:35:21" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始ExecuteTrigger
+</Event>
+<Event eventID="1e4bc744-7b9d-45e0-833d-5aa52eeb1633" LogTime="2024/09/06 14:35:21" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始GetFormResult
+</Event>
+<Event eventID="be17d521-a325-4dcd-a799-2e5e18c7ca1b" LogTime="2024/09/06 14:35:21" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 ExecuteTrigger finally
+</Event>
+<Event eventID="d2498d08-9fa8-4420-8276-9daab572f961" LogTime="2024/09/06 14:35:21" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 結束ExecuteTrigger
+</Event>
+<Event eventID="60c7ffc3-672b-43db-a149-5bf7846a37d1" LogTime="2024/09/06 14:35:21" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/FirstSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+寫入狀態True
+TriggerExtenalModuleByEndForm 
+ triggerMethod: START_FORM
+signResult: Approve 
+ returnSiteId:  
+ taskId: 3ab51aa4-be08-4501-b50c-3a6eb8c53f70 
+表單編號: WKF240900004 
+triggerId: 4b66fe87-c7ac-4a10-ae43-66bd8f86bd38
+ file: Training
+ type: Training.Trigger.DemoForm.StartFormTrigger
+2024/09/06 14:35:21 +08:00 開始執行Trigger
+2024/09/06 14:35:21 +08:00 開始執行GetFormResult
+2024/09/06 14:35:21 +08:00 結束執行GetFormResult
+2024/09/06 14:35:21 +08:00 開始執行Finally
+2024/09/06 14:35:21 +08:00 結束執行Finally
+2024/09/06 14:35:21 +08:00 結束執行Trigger
+2024/09/06 14:35:21 +08:00 開始寫入成功紀錄
+2024/09/06 14:35:21 +08:00 結束寫入成功紀錄
+
+</Event>
+<Event eventID="c0954f46-eb4b-4cc5-a3a9-81fdd84a69e7" LogTime="2024/09/06 14:35:33" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 建構ApplyTask2
+</Event>
+<Event eventID="d890186c-b27d-4c54-92d5-ea3423c04144" LogTime="2024/09/06 14:35:33" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始ExecuteTrigger
+</Event>
+<Event eventID="30a048ba-03fd-4637-832c-ac66f47a6888" LogTime="2024/09/06 14:35:33" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始ExecuteTrigger
+</Event>
+<Event eventID="f61d20cd-43cb-4966-a4f6-88e2998a03aa" LogTime="2024/09/06 14:35:33" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始GetFormResult
+</Event>
+<Event eventID="1392e488-b7e4-4d9e-8d45-a017cdda1c7e" LogTime="2024/09/06 14:35:33" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 ExecuteTrigger finally
+</Event>
+<Event eventID="2e2454d4-e9dc-44e1-ad4e-910aaa58af73" LogTime="2024/09/06 14:35:33" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 結束ExecuteTrigger
+</Event>
+<Event eventID="ae8a1a37-1a60-45af-bddc-fdf5ce7ccd93" LogTime="2024/09/06 14:35:33" User="f693e452-5ef8-47b2-ad17-92bfdba743bc" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+寫入狀態True
+TriggerExtenalModuleByEndForm 
+ triggerMethod: SIGN_FORM
+signResult: Approve 
+ returnSiteId:  
+ taskId: 3ab51aa4-be08-4501-b50c-3a6eb8c53f70 
+表單編號: WKF240900004 
+triggerId: fe3b0a0e-211a-4ac8-8e3f-5ec57b1b405d
+ file: Training
+ type: Training.Trigger.DemoForm.OnFlowTrigger
+2024/09/06 14:35:33 +08:00 開始執行Trigger
+2024/09/06 14:35:33 +08:00 開始執行GetFormResult
+2024/09/06 14:35:33 +08:00 結束執行GetFormResult
+2024/09/06 14:35:33 +08:00 開始執行Finally
+2024/09/06 14:35:33 +08:00 結束執行Finally
+2024/09/06 14:35:33 +08:00 結束執行Trigger
+2024/09/06 14:35:33 +08:00 開始寫入成功紀錄
+2024/09/06 14:35:33 +08:00 結束寫入成功紀錄
+
+</Event>
+<Event eventID="920ae8b0-7a45-41a9-8f01-4dbd2353257c" LogTime="2024/09/06 14:35:54" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 建構ApplyTask2
+</Event>
+<Event eventID="51976f04-1a4b-4921-99d0-2f58a8c181da" LogTime="2024/09/06 14:35:54" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始ExecuteTrigger
+</Event>
+<Event eventID="343e1936-3580-46cc-990e-bb583eb94ff7" LogTime="2024/09/06 14:35:54" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始ExecuteTrigger
+</Event>
+<Event eventID="d64dea05-8324-4722-b464-719898762084" LogTime="2024/09/06 14:35:54" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始GetFormResult
+</Event>
+<Event eventID="fdd46e43-800a-4803-8389-6f8138d5af30" LogTime="2024/09/06 14:35:54" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 ExecuteTrigger finally
+</Event>
+<Event eventID="dc0f05d0-470b-4d06-8cc7-5a3e6ad5de50" LogTime="2024/09/06 14:35:54" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 結束ExecuteTrigger
+</Event>
+<Event eventID="b32827a9-5492-4812-93c9-e02e86097b7f" LogTime="2024/09/06 14:35:54" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+寫入狀態True
+TriggerExtenalModuleByEndForm 
+ triggerMethod: SIGN_FORM
+signResult: Approve 
+ returnSiteId:  
+ taskId: 3ab51aa4-be08-4501-b50c-3a6eb8c53f70 
+表單編號: WKF240900004 
+triggerId: fe3b0a0e-211a-4ac8-8e3f-5ec57b1b405d
+ file: Training
+ type: Training.Trigger.DemoForm.OnFlowTrigger
+2024/09/06 14:35:54 +08:00 開始執行Trigger
+2024/09/06 14:35:54 +08:00 開始執行GetFormResult
+2024/09/06 14:35:54 +08:00 結束執行GetFormResult
+2024/09/06 14:35:54 +08:00 開始執行Finally
+2024/09/06 14:35:54 +08:00 結束執行Finally
+2024/09/06 14:35:54 +08:00 結束執行Trigger
+2024/09/06 14:35:54 +08:00 開始寫入成功紀錄
+2024/09/06 14:35:54 +08:00 結束寫入成功紀錄
+
+</Event>
+<Event eventID="b276c302-a617-49d9-aafa-d3576d7c9656" LogTime="2024/09/06 14:35:55" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始結案Trigger
+</Event>
+<Event eventID="eac7cc41-b562-4300-b30b-3e3a8d056043" LogTime="2024/09/06 14:35:55" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 結案Trigger列表
+</Event>
+<Event eventID="b9e378cd-f9cc-40d0-b2c3-afe0b118b6ce" LogTime="2024/09/06 14:35:55" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 建構ApplyTask1
+</Event>
+<Event eventID="306d1f4f-1860-4663-846c-008bd81b8983" LogTime="2024/09/06 14:35:55" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 建構ApplyTask2
+</Event>
+<Event eventID="db82d7a2-69f2-4da1-95e2-1c66d3b69359" LogTime="2024/09/06 14:35:55" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始ExecuteTrigger
+</Event>
+<Event eventID="607dbe7a-0b88-45df-9c4e-5bc6a7e9bdee" LogTime="2024/09/06 14:35:55" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始ExecuteTrigger
+</Event>
+<Event eventID="8c7605d5-d888-44da-8e4f-7ca941fb883c" LogTime="2024/09/06 14:35:55" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 開始GetFormResult
+</Event>
+<Event eventID="c802c530-d010-4dd8-9d25-76572bfea9d4" LogTime="2024/09/06 14:35:55" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 ExecuteTrigger例外
+</Event>
+<Event eventID="36b9f4da-a9fa-42cf-a780-23b45477e7a6" LogTime="2024/09/06 14:35:55" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+WKF240900004 ExecuteTrigger finally
+</Event>
+<Event eventID="87e4fa3c-12ca-4724-8600-7ba0ab971e4b" LogTime="2024/09/06 14:35:55" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_Anhornmed/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+寫入狀態False
+TriggerExtenalModuleByEndForm 
+ triggerMethod: END_FORM
+signResult: Approve 
+ returnSiteId:  
+ taskId: 3ab51aa4-be08-4501-b50c-3a6eb8c53f70 
+表單編號: WKF240900004 
+triggerId: 0a660f4c-2b24-4744-9eb0-aab11a5aea93
+ file: Training
+ type: Training.Trigger.DemoForm.EndFormTrigger
+2024/09/06 14:35:55 +08:00 開始執行Trigger
+2024/09/06 14:35:55 +08:00 開始執行GetFormResult
+2024/09/06 14:35:55 +08:00 開始執行OnError
+2024/09/06 14:35:55 +08:00 結束執行OnError
+2024/09/06 14:35:55 +08:00 開始執行Finally
+2024/09/06 14:35:55 +08:00 結束執行Finally
+2024/09/06 14:35:55 +08:00 結束執行Trigger
+2024/09/06 14:35:55 +08:00 開始寫入失敗紀錄
+2024/09/06 14:35:55 +08:00 結束寫入失敗紀錄
+2024/09/06 14:35:55 +08:00 開始發送失敗訊息
+2024/09/06 14:35:55 +08:00 結束發送失敗訊息
+
+</Event>

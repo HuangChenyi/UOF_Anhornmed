@@ -206,5 +206,15 @@ namespace Training.PO
             m_db = new Ede.Uof.Utility.Data.DatabaseHelper();
             return dt;
         }
+
+        internal string GetUsingFormVersionId(string formName)
+        {
+            string cmdTxt = @"SELECT USING_VERSION_ID FROM TB_WKF_FORM
+WHERE FORM_NAME=@FORM_NAME";
+
+            this.m_db.AddParameter("@FORM_NAME", formName);
+
+            return this.m_db.ExecuteScalar(cmdTxt).ToString();
+        }
     }
 }

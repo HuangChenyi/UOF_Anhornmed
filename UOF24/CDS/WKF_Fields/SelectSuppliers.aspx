@@ -1,9 +1,11 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master/DialogMasterPage.master" AutoEventWireup="true" CodeFile="SelectSuppliers.aspx.cs" Inherits="CDS_WKF_Fields_SelectSuppliers" %>
 <%@ Register Assembly="Ede.Uof.Utility.Component.Grid" Namespace="Ede.Uof.Utility.Component" TagPrefix="Ede" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <asp:Label ID="Label1" runat="server" Text="關鍵字"></asp:Label>
     <asp:TextBox ID="txtKeyword" runat="server"></asp:TextBox>
     <asp:Button ID="btnSearch" runat="server" Text="查詢" OnClick="btnSearch_Click" />
+ 
     <Ede:Grid ID="grid" runat="server" AutoGenerateColumns="false" AutoGenerateCheckBoxColumn="false"
         AllowPaging="true" OnPageIndexChanging="grid_PageIndexChanging"  OnRowCommand="grid_RowCommand"
         >
