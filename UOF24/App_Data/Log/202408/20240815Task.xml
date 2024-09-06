@@ -1,0 +1,12 @@
+﻿<Event eventID="848e57f9-589c-4615-8bf5-ca41d184d57c" LogTime="2024/08/15 10:17:32" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Synchronize Config File Success
+</Event>
+<Event eventID="41a1debe-c1d3-442b-bdf0-11468a8a1a7b" LogTime="2024/08/15 10:17:32" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Training.DemoTask is started
+</Event>
+<Event eventID="431b2f07-60ff-4bf9-802b-cf729df7951a" LogTime="2024/08/15 10:17:32" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.Utility.IndexService.Seekafile.Server.IndexServiceTask is started
+</Event>
+<Event eventID="075f0f91-2d16-44ae-9bb6-fcf916976ff7" LogTime="2024/08/15 10:17:32" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Training.DemoTask is successed
+</Event>

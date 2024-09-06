@@ -1418,6 +1418,14 @@
             <Value Culture="vi" Name="外掛欄位範例1" />
           </Display>
         </FieldItem>
+        <FieldItem DesignUI="~/CDS/WKF_Fields/SetupField_SuppliersInfo.aspx" WriteUI="~/CDS/WKF_Fields/SuppliersInfo.ascx" FieldName="SuppliersInfo">
+          <Display>
+            <Value Culture="zh-TW" Name="供應商資訊" />
+            <Value Culture="zh-CN" Name="供應商資訊" />
+            <Value Culture="en-US" Name="供應商資訊" />
+            <Value Culture="vi" Name="供應商資訊" />
+          </Display>
+        </FieldItem>
       </OptionalField>
     </Field>
   </WKF>

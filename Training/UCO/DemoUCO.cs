@@ -52,5 +52,14 @@ namespace Training.UCO
             m_DemoPO.UpdateFormResult(docNbr, formResult);
         }
 
+        public DataTable GetSuppilers(string keyword)
+        {
+            return  m_DemoPO.GetSuppilers(keyword);
+        }
+
+        public DataTable GetSuppilersByID(string id)
+        {
+            return m_DemoPO.GetSuppilersByID(id);
+        }
     }
 }

@@ -171,6 +171,40 @@ namespace Training.PO
             this.m_db.ExecuteNonQuery(cmdTxt);
         }
 
+        internal DataTable GetSuppilers(string keyword)
+        {
 
+            string connStr = System.Configuration.ConfigurationManager.ConnectionStrings["connTOERP"].ConnectionString;
+            m_db=new Ede.Uof.Utility.Data.DatabaseHelper(connStr);
+
+            string cmdTxt = @"SELECT * FROM Suppliers
+                        WHERE CompanyName LIKE @keyword
+                    OR ContactName LIKE @keyword";
+
+            this.m_db.AddParameter("@keyword", "%" + keyword + "%");
+
+            DataTable dt = new DataTable();
+
+            dt.Load(this.m_db.ExecuteReader(cmdTxt));
+            m_db=new Ede.Uof.Utility.Data.DatabaseHelper();
+            return dt;
+        }
+
+        internal DataTable GetSuppilersByID(string id)
+        {
+            string connStr = System.Configuration.ConfigurationManager.ConnectionStrings["connTOERP"].ConnectionString;
+            m_db = new Ede.Uof.Utility.Data.DatabaseHelper(connStr);
+
+            string cmdTxt = @"SELECT * FROM Suppliers
+                        WHERE SupplierID=@SupplierID";
+
+            this.m_db.AddParameter("@SupplierID", id);
+
+            DataTable dt = new DataTable();
+
+            dt.Load(this.m_db.ExecuteReader(cmdTxt));
+            m_db = new Ede.Uof.Utility.Data.DatabaseHelper();
+            return dt;
+        }
     }
 }
