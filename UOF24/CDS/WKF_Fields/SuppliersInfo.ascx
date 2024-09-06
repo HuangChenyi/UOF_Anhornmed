@@ -1,6 +1,46 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="SuppliersInfo.ascx.cs" Inherits="WKF_OptionalFields_SuppliersInfo" %>
 <%@ Reference Control="~/WKF/FormManagement/VersionFieldUserControl/VersionFieldUC.ascx" %>
 <%@ Register Assembly="Ede.Uof.Utility.Component.Grid" Namespace="Ede.Uof.Utility.Component" TagPrefix="Ede" %>
+
+
+<script>
+
+    function CheckData(source, arguments) {
+
+        var item = $('#<%=txtData.ClientID%>').val();
+
+
+
+
+
+        var data = [item];
+        var result = $uof.pageMethod.syncUc("CDS/WKF_Fields/SuppliersInfo.ascx", "CheckData1", data);
+       
+
+        if (result == "Alert") {
+            //alert('有重覆唷!');
+
+            if (confirm('有重覆唷!要繼續送出嗎?')) {
+                arguments.IsValid = true;
+                return;
+            }
+            else {
+                arguments.IsValid = false;
+                return;
+            }
+
+        }
+        else
+        {
+            arguments.IsValid = true;
+            return;
+        }
+
+        
+    }
+
+</script>
+
 <table class="PopTable" style="width:600px">
     <tr>
         <td> <asp:Label ID="Label1" runat="server" Text="供應商名稱"></asp:Label></td>
@@ -40,8 +80,11 @@
         </td>
     </tr>
 </table>
+<asp:TextBox ID="txtData" runat="server"></asp:TextBox>
 
-<Ede:Grid ID="grid" runat="server" AutoGenerateColumns="false" AutoGenerateCheckBoxColumn="false"></Ede:Grid>
+<asp:CustomValidator ID="CustomValidator1" runat="server" 
+    Display="Dynamic" ClientValidationFunction="CheckData"
+    ErrorMessage=""></asp:CustomValidator>
 
 
 <asp:Label ID="lblHasNoAuthority" runat="server" Text="無填寫權限" ForeColor="Red" Visible="False" meta:resourcekey="lblHasNoAuthorityResource1"></asp:Label>

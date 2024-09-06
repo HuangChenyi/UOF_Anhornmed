@@ -177,6 +177,18 @@ public partial class WKF_OptionalFields_SuppliersInfo : WKF_FormManagement_Versi
         btnSelect.Visible=Enabled;
     }
 
+    public string CheckData1(string item)
+    {
+        if(item == "1")
+        {
+            return "Alert";
+        }
+        else
+        {
+            return "";
+        }
+    }
+
     /// <summary>
     /// 顯示時欄位初始值
     /// </summary>
